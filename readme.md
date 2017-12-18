@@ -4,8 +4,7 @@ favorite movies, including box art imagery and a movie trailer URL.
 
 ## Prerequisites
 1. Install Python3.
-
-  link: https://www.python.org/
+link: https://www.python.org/
 2. Browser to view the .html file.
 3. Internet access to download the Movie Trailer file.
 fresh_tomatoes.py from github
